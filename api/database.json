@@ -1,0 +1,39 @@
+{
+  "legos": [
+    {
+      "creator": "bubba",
+      "color": "red",
+      "shape": "",
+      "creation": "",
+      "id": 1
+    },
+    {
+      "creator": "bubba",
+      "color": "red",
+      "shape": "",
+      "creation": "",
+      "id": 2
+    },
+    {
+      "creator": "bubba",
+      "color": "red",
+      "shape": "",
+      "creation": "",
+      "id": 3
+    },
+    {
+      "creator": "curt",
+      "color": "orange",
+      "shape": "",
+      "creation": "",
+      "id": 4
+    },
+    {
+      "creator": "curt",
+      "color": "red",
+      "shape": "",
+      "creation": "",
+      "id": 5
+    }
+  ]
+}
